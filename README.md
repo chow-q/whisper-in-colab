@@ -1,5 +1,7 @@
 # whisper-in-colab 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)]([[https://colab.research.google.com/drive/1gq0Qn-_PdKFZFr_LIxd-WWJBT3Mm1TP4?usp=sharing])
+
+[![Open In Colab]([[https://colab.research.google.com/drive/1gq0Qn-_PdKFZFr_LIxd-WWJBT3Mm1TP4?usp=sharing])
+
 https://github.com/openai/whisper
 
 use whisper in colab for free
