@@ -1,5 +1,7 @@
 # whisper-in-colab 
 
+ai语音转文字模型快速使用介绍
+
 在线试用： 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RVK_qSCF2BCUWVH1KkOzxfztv_GNYr_Z?usp=sharing) 
 
