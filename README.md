@@ -3,6 +3,7 @@
 在线试用： 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RVK_qSCF2BCUWVH1KkOzxfztv_GNYr_Z?usp=sharing) 
 
+本项目依赖于openai开源的语音转文字项目： 
 https://github.com/openai/whisper
 
 use whisper in colab for free
