@@ -18,12 +18,19 @@ https://colab.research.google.com/
 直接填下面的代码到colab中运行即可（Sound1.wav 手动上传）
 
 !nvidia-smi
+
 !pip3 install torch torchvision torchaudio
+
 !pip3 install git+https://github.com/openai/whisper.git
+
 !pip3 install --upgrade --no-deps --force-reinstall git+https://github.com/openai/whisper.git
+
 from google.colab import drive
+
 drive.mount('/content/gdrive')
+
 %cd "/content/gdrive/MyDrive/Colab Notebooks"
+
 !ls -l
 
 !whisper /content/Sound1.wav--model large --language Chinese --initial_prompt "以下是普通话的句子。" --task translate
